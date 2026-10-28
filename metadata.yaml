@@ -1,0 +1,7 @@
+name: astrbot_plugin_group_identity
+display_name: 群聊身份归属
+desc: 为群聊背景和当前输入标注发送者 QQ、引用原作者和提及对象，改善多人共享上下文的归属混淆。
+version: v1.0.0
+author: BLUE-code-A
+astrbot_version: ">=4.29.3,<4.30.0"
+repo: "https://github.com/BLUE-code-A/astrbot_plugin_group_identity"
